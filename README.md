@@ -1,3 +1,3 @@
-# CRUD-local-HTML-CSS-JavaScript
+# CRUD-HTML-CSS-JavaScript
 
-Ejemplo sencillo de creación de CRUD Local usando HTML, CSS y JavaScript
+formulario de Base Naval creado con CRUD usando HTML, CSS y JavaScript

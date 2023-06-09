@@ -4,6 +4,7 @@ const objEmpleado = {
     id: '',
     nombre: '',
     puesto: ''
+
 }
 
 let editando = false;

@@ -22,7 +22,7 @@ function validarFormulario(e) {
         alert('Todos los campos se deben llenar');
         return;
     }
-
+    
     if(editando) {
         editarEmpleado();
         editando = false;
